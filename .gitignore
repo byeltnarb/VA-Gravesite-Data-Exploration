@@ -1,0 +1,23 @@
+# Environments 
+myenv/
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# OS specific
+.DS_Store
+*.log
+
+# IDE specific (Assuming IDEs or text editors)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# If secret configuration or environment files
+*.env
+secrets.yml
+
