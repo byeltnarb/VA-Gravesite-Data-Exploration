@@ -1,5 +1,12 @@
 # Environments 
 myenv/
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
 # Python specific
 __pycache__/
@@ -10,6 +17,9 @@ __pycache__/
 # OS specific
 .DS_Store
 *.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
 
 # IDE specific (Assuming IDEs or text editors)
 .vscode/
