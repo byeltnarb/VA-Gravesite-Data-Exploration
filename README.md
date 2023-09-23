@@ -41,6 +41,9 @@ The dataset, `National_Cemetery_Administration_Gravesite_Locator_VA_dataset.csv`
 Working on this project has strengthened my skills in data engineering, particularly in handling and cleaning large datasets. It's also highlighted the importance of preliminary data inspection before performing any advanced operations.
 
 ## Future Work
+2023 Sept UPDATE
+ - cleaned "src\data_cleaning_ks.ipynb" futher and saved as "src\data_cleaning_ks_cont.ipynb"
+ - Introduced insights through HTML visualiztion "dashboardapp\html_dashboard.html"
 
 ### On This Dataset
 - **Visualization:** Introduce visualization tools to present data in a graphical and more intuitive format.
