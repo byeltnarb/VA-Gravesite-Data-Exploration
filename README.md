@@ -59,3 +59,14 @@ Working on this project has strengthened my skills in data engineering, particul
 
 ## Credits/Acknowledgments
 Credit goes to the National Cemetery Administration for the dataset and the tools mentioned for facilitating the analysis.
+
+## Preview of Interative Plots
+
+![summary-statistics](https://github.com/byeltnarb/VA-Gravesite-Data-Exploration/assets/78366874/49f7f613-c1d6-487f-a937-3acf3945dc4a)
+
+![age-at-death](https://github.com/byeltnarb/VA-Gravesite-Data-Exploration/assets/78366874/39e16c3d-254a-41e1-8e13-8ca463413f65)
+
+![age-at-death-line](https://github.com/byeltnarb/VA-Gravesite-Data-Exploration/assets/78366874/da252999-6f4b-42ae-9dc5-32ee3ae83306)
+
+![age-at-death-scatter](https://github.com/byeltnarb/VA-Gravesite-Data-Exploration/assets/78366874/a55ee24c-1bda-4030-acbd-9c06ce19b99d)
+
