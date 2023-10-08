@@ -60,7 +60,7 @@ Working on this project has strengthened my skills in data engineering, particul
 ## Credits/Acknowledgments
 Credit goes to the National Cemetery Administration for the dataset and the tools mentioned for facilitating the analysis.
 
-## Preview of Interative Plots
+## Preview of Interactive Plots
 
 ![summary-statistics](https://github.com/byeltnarb/VA-Gravesite-Data-Exploration/assets/78366874/49f7f613-c1d6-487f-a937-3acf3945dc4a)
 
